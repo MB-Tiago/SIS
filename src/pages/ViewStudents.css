@@ -1,0 +1,25 @@
+
+.baby {
+    display: flex;
+    align-items: stretch;
+    
+  }
+  
+  .sidebar {
+    flex: 0 0 250px;
+  }
+  
+  .babies {
+    margin: 20px;
+    margin-left: 20px;
+    flex: 1; 
+  }
+  h1 {
+    margin-bottom: 20px;
+    font-family: "Poppins";
+
+  }
+  
+
+
+  
